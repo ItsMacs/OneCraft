@@ -1,0 +1,8 @@
+name: OneCraft
+version: '${project.version}'
+main: eu.macsworks.fiverr.onecraft.OneCraft
+api-version: 1.20
+depend: [MacsLibs]
+authors: [MacsWorks]
+description: Plugin to manage OneCraft
+website: macsworks.eu
