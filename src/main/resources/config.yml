@@ -3,4 +3,14 @@
 # For support: macsworks.eu/discord
 
 lang:
-  no-permission: "&c[&4!&c] You don't have permission!"     
+  no-permission: "&c[&4!&c] You don't have permission!"
+  time-expired: "&cYour time expired!"
+  in-queue: "&eQueue position: &c&l%pos% &8(&7%time%&8)"
+  timer: "&7%timer%"
+
+playAmt: 3600 #1 hour
+
+sql:
+  host: "168.119.111.89:3306/minecraft"
+  user: "testuser"
+  password: "testpwd"
